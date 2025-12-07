@@ -17,7 +17,7 @@ def modulo(a,b):
          return print("Erreur, impossible de diviser un nombre par 0 ");
     else : return a % b;
 
-print("Bonjour et bienvenue dans notre mini calculatrice !")
+print("Bonjour et bienvenue dans notre mini calculatrice !");
 a=int(input("Entrer le premier nombre :"));
 b=int(input("Entrer le deuxieme nombre :"));
 
